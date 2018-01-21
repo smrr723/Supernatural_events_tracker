@@ -20,6 +20,7 @@ To install and run a copy of our webapp:
 1. ```git clone``` our repository down to your own machine and ```cd``` into the repo folder.
 2. ```npm start``` in your terminal
 3. ```mongo < seeds.js``` in your terminal, to seed the MongoDB database
+4. Navigate to ```localhost:3000``` to view the running webapp, and to ```localhost:3000/api/events``` to view our JSON API.
 
 ### Built Using
 * TeleType (https://atom.io/packages/teletype)
